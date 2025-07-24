@@ -27,9 +27,9 @@ cd Assignment_4
  
 ```
 
-conda env create -f assignment4_env.yml
+conda env create -f Assignment_4_env.yml
 
-conda activate stats-env
+conda activate -env
 
 ```
  
