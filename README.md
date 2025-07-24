@@ -19,7 +19,7 @@ https://scipy-lectures.org/packages/statistics/index.html
 
 git clone https://github.com/n-modak/Assignment4-Stats-Scripts.git
 
-cd Assignment4-Stats-Scripts
+cd Assignment_4
 
 ```
  
